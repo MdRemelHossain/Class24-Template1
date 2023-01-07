@@ -194,18 +194,17 @@ ul.our-primary-menu li:hover ul{
 	background-size: contain;
 	text-align: center;
 	background-repeat: no-repeat;
-	background-position: center;
-	display: flex;
-    align-items: center;
-    justify-content: center;
 }
 .about-text-inner{
+    margin-top: 50px;
     margin-left: 10px;
+    text-align: center;
 }
 .about-text-inner h2 {
-    color: #e73a3e;
     font-size: 70px;
-    margin-bottom: 0;
+    color: #e73c3e;
+    margin-bottom: 5px;
+    line-height: 1;
 }
 .about-text-inner p{
     font-weight: 600;
