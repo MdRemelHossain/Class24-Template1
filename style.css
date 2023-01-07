@@ -188,7 +188,7 @@ ul.our-primary-menu li:hover ul{
 	position: absolute;
 	right: 55px;
 	bottom: 0;
-	background: url(/images/shape.png);
+	background-image: url(/images/shape25.png);
 	height: 200px;
 	width: 200px;
 	background-size: contain;
